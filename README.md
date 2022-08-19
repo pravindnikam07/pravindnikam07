@@ -37,7 +37,7 @@
 ## 🌏 Connect with me...
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="150" height="40" alt="linkedIn" src="https://user-images.githubusercontent.com/101383047/184548619-fb141514-6533-4503-b460-02f2e175ab69.JPG">](https://www.linkedin.com/in/pravindnikam07/) &nbsp;&nbsp;
-<img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548410-5be48f00-9364-4b84-a879-6c5b3fc778d2.JPG"> &nbsp;&nbsp;
+[<img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548410-5be48f00-9364-4b84-a879-6c5b3fc778d2.JPG"> ](https://portfolio-pravindnikam07.netlify.app/)&nbsp;&nbsp;
 <img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548849-a77cc426-250a-48ad-8f2c-4c3b09443cbb.JPG"> &nbsp;&nbsp;
 
 <!--
