@@ -5,7 +5,7 @@
 ---
 ## About Me
 
-> #### Java Full Stack Developer | Programmer
+> #### Full Stack Java Developer | Programmer
 <!--<span><img width="30" height="30" alt="javaScript" src="https://user-images.githubusercontent.com/101383047/184540783-5fbe075d-a347-4883-8192-b43925cdd60e.png"></span>-->
 - I'm handy with Java development, along with raising my Data Structure and Algorithms knowledge
 - Trigger to learn new technologies in web development.
@@ -36,13 +36,17 @@
 ---
 ## 🌏 Connect with me...
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="150" height="40" alt="linkedIn" src="https://user-images.githubusercontent.com/101383047/184548619-fb141514-6533-4503-b460-02f2e175ab69.JPG">](https://www.linkedin.com/in/pravindnikam07/) &nbsp;&nbsp;
-[<img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548410-5be48f00-9364-4b84-a879-6c5b3fc778d2.JPG"> ](https://portfolio-pravindnikam07.netlify.app/)&nbsp;&nbsp;
+- Email ID -- pravindnikam07@gmail.com
+- Contact No -- 7709505570
+- [LinkedIn](https://www.linkedin.com/in/pravindnikam07/) &nbsp;&nbsp;
+- [Portfolio](https://portfolio-pravindnikam07.netlify.app/)&nbsp;&nbsp;
 
 
 <!--
 <img width="150" height="40" alt="gmail" src="https://user-images.githubusercontent.com/101383047/184548849-a77cc426-250a-48ad-8f2c-4c3b09443cbb.JPG"> &nbsp;&nbsp;
 <img width="150" height="40" alt="" src="">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="150" height="40" alt="linkedIn" src="https://user-images.githubusercontent.com/101383047/184548619-fb141514-6533-4503-b460-02f2e175ab69.JPG">]
+[<img width="150" height="40" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/184548410-5be48f00-9364-4b84-a879-6c5b3fc778d2.JPG"> ]
 **pravindnikam07/pravindnikam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
