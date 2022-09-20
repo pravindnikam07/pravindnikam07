@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stacks
 
 > #### Backend
-&nbsp;&nbsp;&nbsp;&nbsp; Java | SpringBoot | Hibernate | MySQL | SQL | Maven
+&nbsp;&nbsp;&nbsp;&nbsp; Java | Spring | SpringBoot | Hibernate | JPA | ORM | MySQL | SQL | Maven
 
 <!--<img width="150" height="40" alt="Java" src="https://user-images.githubusercontent.com/101383047/184539691-6a4c110b-c579-4da6-8680-f94b55ec0e08.jpg"> &nbsp;&nbsp;-->
 <!--
@@ -34,7 +34,7 @@
 <img width="150" height="50" alt="BootStrap" src="https://user-images.githubusercontent.com/101383047/184547567-f8af7335-0dc9-4bd9-b682-bdb3b867ff23.jpg"> &nbsp;&nbsp;
 -->
 > #### Other Stacks
-&nbsp;&nbsp;&nbsp;&nbsp; Git | STS | IntelliJ Idea | VS Code
+&nbsp;&nbsp;&nbsp;&nbsp; Git | STS | IntelliJ Idea | VS Code | netlify
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="150" height="40" alt="Git" src="https://user-images.githubusercontent.com/101383047/184547822-56b2cbc5-83ff-4e65-9d1e-f6065ead1260.jpeg"> &nbsp;&nbsp;
