@@ -61,11 +61,11 @@
 ## 📊 Stats
 ![Pravin's  GitHub stats](https://github-readme-stats.vercel.app/api?username=pravindnikam07&theme=tokyonight&show_icons=true)
 ![Pravin's  GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=pravindnikam07&theme=dark&hide_border=true")
-<!--![Pravin's  GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pravindnikam07&theme=tokyonight&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pravindnikam07&theme=cobalt&layout=compact)-->
 ![](https://activity-graph.herokuapp.com/graph?username=pravindnikam07&amp;hide_border=true&amp;bg_color=151515&amp;color=fff&amp;line=f28a00&amp;point=f28a00)
 ![](https://gpvc.arturio.dev/pravindnikam07)
 
+<!--![Pravin's  GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pravindnikam07&theme=tokyonight&show_icons=true)
 <!--
 <img width="150" height="40" alt="gmail" src="https://user-images.githubusercontent.com/101383047/184548849-a77cc426-250a-48ad-8f2c-4c3b09443cbb.JPG"> &nbsp;&nbsp;
 <img width="150" height="40" alt="" src="">
