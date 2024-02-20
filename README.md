@@ -6,7 +6,6 @@ Aspiring Full Stack developer professional with knowledge of frontend and backen
 ## <img width="26" height="26" alt="about me" src="https://user-images.githubusercontent.com/101383047/189491727-7a027ae4-6a8f-41e5-a38b-34cba60a7a0c.png"> About Me 
 > #### Full Stack Java Developer | Programmer
 <!--<span><img width="30" height="30" alt="javaScript" src="https://user-images.githubusercontent.com/101383047/184540783-5fbe075d-a347-4883-8192-b43925cdd60e.png"></span>-->
-> ![](https://gpvc.arturio.dev/pravindnikam07)<br/>
 - Hi! My name is Pravin from Nashik.
 - I'm handy with Java development, along with raising my Data Structure and Algorithms knowledge
 - Trigger to learn new technologies in web development.
