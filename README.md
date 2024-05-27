@@ -63,7 +63,7 @@ Aspiring Full Stack developer professional with knowledge of frontend and backen
 ## 🌏 Connect with me...
 
 - <img width="26" height="26" alt="email" src="https://user-images.githubusercontent.com/101383047/189492660-adb48aa4-e0c0-417b-9268-db71d99d389f.png"> &nbsp; pravindnikam07@gmail.com
-- <img width="26" height="26" alt="contact" src="https://user-images.githubusercontent.com/101383047/189492709-08990aca-9415-4342-a11b-d82e40231b08.png"> &nbsp; 7709505570
+<!-- - <img width="26" height="26" alt="contact" src="https://user-images.githubusercontent.com/101383047/189492709-08990aca-9415-4342-a11b-d82e40231b08.png"> &nbsp; 7709505570 -->
 - <img width="26" height="26" alt="LinkedIn" src="https://user-images.githubusercontent.com/101383047/189492379-0165edd5-b873-4df7-b85b-8fe8e624694c.png"> &nbsp; [pravindnikam07](https://www.linkedin.com/in/pravindnikam07/)
 - <img width="26" height="26" alt="portfolio" src="https://user-images.githubusercontent.com/101383047/189492615-0328a147-4f33-432b-96d2-afcd69a20e51.png"> &nbsp; [portfolio-pravindnikam07](https://portfolio-pravindnikam07.netlify.app/)
 
