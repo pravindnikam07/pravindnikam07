@@ -28,7 +28,7 @@ Aspiring Full Stack developer professional with knowledge of frontend and backen
 
 <!--
 > #### Backend
-&nbsp;&nbsp;&nbsp;&nbsp; Java | Spring | SpringBoot | Hibernate | JPA | ORM | MySQL | SQL | Maven
+&nbsp;&nbsp;&nbsp;&nbsp; Java | Spring | SpringBoot | Hibernate | JPA | ORM | MySQL | SQL | Maven | Node | Express | Mongo
 
 <!--<img width="150" height="40" alt="Java" src="https://user-images.githubusercontent.com/101383047/184539691-6a4c110b-c579-4da6-8680-f94b55ec0e08.jpg"> &nbsp;&nbsp;-->
 <!--
@@ -40,7 +40,7 @@ Aspiring Full Stack developer professional with knowledge of frontend and backen
 
 <!--
 > #### Frontend
-&nbsp;&nbsp;&nbsp;&nbsp; JavaScript | HTML | CSS | Bootstrap | NPM
+&nbsp;&nbsp;&nbsp;&nbsp; | React | JavaScript | HTML | CSS | Bootstrap | NPM
 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="150" height="40" alt="JavaScript" src="https://user-images.githubusercontent.com/101383047/184545433-71ec550b-491e-430c-b421-6e6c17243a1f.svg"> &nbsp;&nbsp;
